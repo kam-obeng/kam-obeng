@@ -9,6 +9,18 @@ With an analytical mindset honed through coursework challenges, I excel at break
 Though my experience may be limited, I possess a collaborative spirit and am enthusiastic about teamwork to achieve common objectives. I am keen to contribute my ideas, provide support to peers, and eagerly embrace opportunities for collective learning and growth.
 
 
+💼 Looking for Opportunities in Software Engineering
+
+I am actively seeking job opportunities in the IT and software engineering field. With a strong background in software development, web technologies, and programming languages such as Java, Python, JavaScript, C++ and others I am eager to contribute my skills to innovative projects.
+
+📩 For job opportunities, feel free to contact me at: Kobeng909@gmail.com
+
+🌍 Explore my work and projects in my portfolio: https://kam-obeng.github.io/Portfolio/
+
+📄 View my CV here: [Google Docs - CV](https://docs.google.com/document/d/1utJUi8OAK9drLIEXRx-TuLKT0pin_2auFnPv3QPSJW8/edit?usp=sharing)
+
+I am excited to connect with recruiters, hiring managers, and professionals looking for passionate software engineers. Let’s build something great together! 🚀
+
 <!---
 kam-obeng/kam-obeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
