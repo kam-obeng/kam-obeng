@@ -21,6 +21,8 @@ I am actively seeking job opportunities in the IT and software engineering field
 
 I am excited to connect with recruiters, hiring managers, and professionals looking for passionate software engineers. Let’s build something great together! 🚀
 
+![kam-obeng's Stats](https://github-readme-stats.vercel.app/api?username=kam-obeng&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![kam-obeng's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kam-obeng&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!---
 kam-obeng/kam-obeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
