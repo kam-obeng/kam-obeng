@@ -1,3 +1,5 @@
+## About me
+
 As a dedicated and aspiring Software Engineering student, I am deeply enthusiastic about the potential of technology to shape the future. With a strong academic foundation and a thirst for knowledge, I am committed to acquiring the skills and experience necessary to contribute effectively to the world of software development.
 
 I am a passionate learner, eagerly absorbing knowledge and exploring new concepts. I have actively engaged with coursework and personal projects, fostering a strong grasp of software engineering principles and practices.
@@ -8,37 +10,52 @@ With an analytical mindset honed through coursework challenges, I excel at break
 
 Though my experience may be limited, I possess a collaborative spirit and am enthusiastic about teamwork to achieve common objectives. I am keen to contribute my ideas, provide support to peers, and eagerly embrace opportunities for collective learning and growth.
 
-Previous work/projects:
+## Hackathon projects
 
-Hackathon Participation
--Royal Hackaway v8: Developed a responsive healthcare scheduling application with React, Tailwind CSS, and a REST API backend using Express.js and MongoDB. Improved patient experience by simplifying appointment bookings and reminders
+- **Royal Hackaway v8** (React, Tailwind CSS, Express.js, MongoDB)  
+  A healthcare scheduling app that simplifies appointment bookings and reminders.
 
--AstonHack10: Built an Android application in Kotlin and integrated real-time notifications using Firebase, helping students quickly report safety incidents and improve campus security awareness.
+- **AstonHack10** (Kotlin, Firebase)  
+  An Android app for safety‑incident reports with real‑time push notifications.
 
--Triad Hackathon: Collaborated with industry mentors to create an efficient warehouse inventory management dashboard using Next.js, TypeScript, and PostgreSQL, featuring real-time data visualisation and automated stock tracking.
+- **Triad Hackathon** (Next.js, TypeScript, PostgreSQL)  
+  A warehouse inventory dashboard with live data visualisation and auto‑tracking.
 
--Barclays Hackathon:Developed a secure financial budgeting app prototype using Java (Spring Boot), SQL, and implemented authentication and secure payment integration with Stripe API to help users manage expenses securely and avoid financial fraud.
+- **Barclays Hackathon** (Spring Boot, SQL, Stripe API)  
+  A budgeting app prototype with secure login and payment integration.
 
-All projects are available on my GitHub and Portfolio.
+_All hackathon code is on [GitHub](https://github.com/yourusername) and my [Portfolio](https://kam-obeng.github.io/Portfolio/)._
 
--Personal Website & Game Development (HTML/CSS/JavaScript): Created a professional portfolio and an adventurous laptop game using HTML, CSS, and JavaScript. 
--Task Management System (Java): Developed a sophisticated to-do list application with Java Swing and GUI components.
--Student Notes Application (Kotlin): Built a feature-rich note-taking app with CRUD functionality, a secure login system, and interactive quizzes.
--E-Commerce Platform (PHP/Docker): Designed and implemented a fully functional shopping website using PHP, integrating server deployment with Docker.
--Database Management (SQL/Oracle): Designed and developed an SQL-based database system, integrating it into multiple projects.
--Personal Projects (C++ & Python): Developed various small-scale applications exploring algorithmic and problem-solving techniques.
+## Other projects
 
-💼 Looking for Opportunities in Software Engineering
+### Web & Game  
+- **Personal Website** (HTML, CSS, JavaScript)  
+  A portfolio site showcasing my work.  
+- **Laptop Adventure Game** (HTML, CSS, JavaScript)  
+  A browser game with levels, scoring and simple animations.
 
-I am actively seeking job opportunities in the IT and software engineering field. With a strong background in software development, web technologies, and programming languages such as Java, Python, JavaScript, C++ and others I am eager to contribute my skills to innovative projects.
+### Desktop apps  
+- **Task Manager** (Java)  
+  A to‑do list app built with Java Swing.  
+- **Student Notes** (Kotlin)  
+  A notes app with CRUD, secure login and quizzes.
 
-📩 For job opportunities, feel free to contact me at: Kobeng909@gmail.com
+### Web services  
+- **E‑Commerce Site** (PHP, Docker)  
+  A shopping site with product pages, cart and checkout in Docker containers.  
+- **Database Systems** (SQL, Oracle)  
+  SQL databases designed and used across multiple projects.
 
-🌍 Explore my work and projects in my portfolio: https://kam-obeng.github.io/Portfolio/
+### Scripts & algorithms  
+- **C++ & Python minis**  
+  Small programs to explore algorithms and solve problems.
 
-📄 View my CV here: [Google Docs - CV](https://docs.google.com/document/d/1utJUi8OAK9drLIEXRx-TuLKT0pin_2auFnPv3QPSJW8/edit?usp=sharing)
+## Work with me
 
-I am excited to connect with recruiters, hiring managers, and professionals looking for passionate software engineers. Let’s build something great together! 🚀
+I’m looking for software engineering roles.  
+Email me at [Kobeng909@gmail.com](mailto:Kobeng909@gmail.com).  
+See my portfolio: https://kam-obeng.github.io/Portfolio/  
+View my CV: [Google Docs](https://docs.google.com/document/d/1G_ZTXSRURSF1y1AHPXOcIKxt4848kuziFJE2UbDbvSk/edit?usp=sharing)
 
 ![kam-obeng's Stats](https://github-readme-stats.vercel.app/api?username=kam-obeng&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![kam-obeng's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kam-obeng&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
